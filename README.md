@@ -22,17 +22,65 @@ Welcome to my GitHub profile! I'm a programming student from Rwanda who enjoys l
 
 ## 🛠️ Tech Stack & Tools
 
+
+## 🛠️ Tech Stack & Tools
+
 ### 🎨 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" />
+  </a>
+</p>
+
+HTML · CSS · JavaScript · React · Next.js · Tailwind CSS
 
 ### ⚙️ Backend Development
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,python)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" />
+</p>
+
+Node.js · Express.js · PHP · Python
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sql)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" />
+</p>
+
+MySQL · MongoDB
 
 ### 🔧 Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code" />
+</p>
+
+Git · GitHub · VS Code
+
+
 
 
 ## 🤝 Connect With Me
