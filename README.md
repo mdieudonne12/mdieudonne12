@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a programming student from Rwanda who enjoys l
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,python)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,SQL)](https://skillicons.dev)
 
 ### 🔧 Development Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
