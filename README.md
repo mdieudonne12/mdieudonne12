@@ -38,6 +38,8 @@ Welcome to my GitHub profile! I'm a programming student from Rwanda who enjoys l
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/mdieudonne12
+- email:maniraguhadiedonne63@gmail.com
+- 
 
 ---
 
