@@ -12,22 +12,32 @@ Welcome to my GitHub profile! I'm a programming student from Rwanda who enjoys l
 - 🛠️ Building projects to improve my software development skills
 - 🎯 Goal: Become a skilled software engineer and contribute to meaningful projects
 
-## 💻 Technologies I'm Learning
+## 💻 Technologies I Work With
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL, MongoDB
 - **Tools:** Git, GitHub, VS Code
 
-## 📌 Featured Projects
 
-- **Student Management System** — A web application for managing student records.
-- **Internship Management System** — A system for connecting students, companies, and internship opportunities.
-- **NextGen Minds for Rwanda** — An educational initiative focused on empowering young people.
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
+
+### ⚙️ Backend Development
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,python)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### 🔧 Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/mdieudonne12
 
 ---
 
